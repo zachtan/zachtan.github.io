@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zach Tan"
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   bio              : "Postgrad Student, Oxford.<br/>RA, Digital Ethics Lab.<br/>BA, Wesleyan."
   location         : "Oxford, Oxfordshire"
   employer         :
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
