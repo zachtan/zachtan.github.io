@@ -84,7 +84,7 @@ author:
   avatar           : "itme.jpeg.png"
   bio              : "Postgrad, Oxford.<br/>BA, Wesleyan."
   location         : "Oxford/London"
-  employer         : "Oxford Internet Institute"
+  employer         : 
   googlescholar    : 
   email            : "zhi.tan@oii.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
