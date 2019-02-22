@@ -15,7 +15,7 @@ url                      : https://zachtan.org # the base hostname & protocol fo
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "zachtan/zachtan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Zach Tan"
   avatar           : "itme.jpeg.png"
-  bio              : "Postgrad Student, Oxford.<br/>RA, Digital Ethics Lab.<br/>BA, Wesleyan."
+  bio              : "Postgrad, Oxford.<br/>BA, Wesleyan."
   location         : "Oxford/London"
-  employer         :
+  employer         : "Oxford Internet Institute"
   googlescholar    : 
   email            : "zhi.tan@oii.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
