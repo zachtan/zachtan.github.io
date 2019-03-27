@@ -10,6 +10,8 @@ redirect_from:
 
 Bio
 ------
-Hi! I'm Zach, a postgraduate student at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/) studying digital economic platforms, internet governance and regulation, and AI ethics - with a particular focus on how online workers navigate socio-technical systems of algorithmic control. I'm also engaged in ongoing research at the [Digital Ethics Lab](https://digitalethicslab.oii.ox.ac.uk/), and at the [Centre for Socio-Legal Studies](https://www.law.ox.ac.uk/centres-institutes/centre-socio-legal-studies) at Oxford. I received my undergraduate education in the social sciences and humanities from Wesleyan University, in a multidisciplinary program called the [College of Social Studies](https://www.wesleyan.edu/css/). 
+Hi, I’m currently a postgraduate student at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/) researching the economics of digital labor platforms through experimental methods.
 
-I'm always working on something, so take a look at my current projects and reach out if you would like to know more and/or collaborate.
+Alongside my work at the OII, I’m also part of two university research groups: [ConflictNET](http://pcmlp.socleg.ox.ac.uk/conflictnet/) at the Center for Socio-legal Studies and the [Digital Ethics Lab](https://digitalethicslab.oii.ox.ac.uk/), where I examine the topics of internet shutdowns in East Africa and current ethical debates in the ‘gig economy,’ respectively. 
+
+Prior to Oxford, I studied History and the Social Sciences at Wesleyan University, graduating with a major in the [College of Social Studies](https://www.wesleyan.edu/css/), a minor in Data Analysis, and a certificate in Social, Cultural, and Critical Theory, where I was also the preceptor for History my senior year. In addition, I’ve spent time working for a digital art start-up in New York City and as an intern at the Berkman Klein Center for Internet and Society at Harvard University. 
