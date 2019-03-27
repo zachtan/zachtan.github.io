@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Current Projects"
-    url: /projects/  
+  - title: "Recent Projects"
+    url: /portfolio/  
 
   - title: "Teaching"
     url: /teaching/    
