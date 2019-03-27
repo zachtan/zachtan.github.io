@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Zach Tan"
   avatar           : "BioBWSQ.jpg"
-  bio              : "Postgrad, Oxford.<br/>BA, Wesleyan."
-  location         : "Oxford/London"
-  employer         : 
+  bio              : "MSc, Oxford (ongoing).<br/>BA, Wesleyan."
+  location         : 
+  employer         : "Oxford Internet Institute"
   googlescholar    : 
   email            : "zhi.tan@oii.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
